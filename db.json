@@ -1,0 +1,27 @@
+{
+  "user": [
+    {
+      "id": "adminuser",
+      "name": "vignesh",
+      "password": "1234",
+      "email": "sabarivignesh@gmail.com",
+      "phone": "8989898989",
+      "country": "india",
+      "address": "",
+      "gender": "male"
+    },
+    {
+      "id": "kOqMUCt"
+    },
+    {
+      "id": "sabari",
+      "name": "vignesh",
+      "password": "1234",
+      "email": "sabarivignesh1999@gmail.com",
+      "phone": "7339556235",
+      "country": "india",
+      "address": "sabarivignesh1999",
+      "gender": "male"
+    }
+  ]
+}
